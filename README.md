@@ -10,6 +10,9 @@
 
   <a href="https://github.com/garmoths">
     <img src="https://img.shields.io/badge/GitHub-garmoths-181717?style=flat-square&logo=github"/>
+  </a>&nbsp;
+  <a href="mailto:garmoths11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-garmoths11-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 
 </div>
