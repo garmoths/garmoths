@@ -47,7 +47,10 @@
 
 ### 🚀 Featured Project
 
-**[🛡️ AegisNexus](https://github.com/garmoths/aegisnexushowcase)** — AI-powered cybersecurity platform · 8 modules · 1.8M+ threat database · Turkey fraud atlas
+| Project | Description |
+|---------|-------------|
+| **[🛡️ AegisNexus](https://github.com/garmoths/aegisnexushowcase)** | AI-powered cybersecurity platform · 8 modules · 1.8M+ threat database · Turkey fraud atlas |
+| **[🤖 TrAI](https://github.com/garmoths/TrAi)** | AI-powered Discord bot · moderation, chat, automation · GPT integrated |
 
 ---
 
