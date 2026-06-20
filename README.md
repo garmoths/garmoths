@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/garmoths/garmoths/main/gif_samurai_jack.gif" width="480" alt="Samurai Jack">
 
-  <h1>hey, i'm enes 👋</h1>
+  <h1>hey, i'm garmoths 👋</h1>
 
   <p>
     <b>Full-Stack Developer · Cybersecurity Enthusiast · Builder</b><br>
