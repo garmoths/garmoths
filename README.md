@@ -1,59 +1,80 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/garmoths/garmoths/main/gif_samurai_jack.gif" width="480" alt="Samurai Jack">
+  <img src="https://raw.githubusercontent.com/garmoths/garmoths/main/gif_samurai_jack.gif" width="100%" style="max-width: 600px; border-radius: 10px;" alt="Samurai Jack">
 
-  <h1>hey, i'm garmoths 👋</h1>
-
-  <p>
-    <b>Full-Stack Developer · Cybersecurity Enthusiast · Builder</b><br>
-    <sub>I turn complex security problems into clean, working software.</sub>
+  <br><br>
+  
+  <h1>Hi there, I'm Garmoths </h1>
+  
+  <p align="center">
+    <b>Developer · Cybersecurity Enthusiast · Builder</b><br>
+    <i>Turning complex security problems into clean, scalable, and working software.</i>
   </p>
 
-  <a href="https://github.com/garmoths">
-    <img src="https://img.shields.io/badge/GitHub-garmoths-181717?style=flat-square&logo=github"/>
-  </a>&nbsp;
-  <a href="mailto:garmoths11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-garmoths11-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
+  <p align="center">
+    <a href="https://github.com/garmoths">
+      <img src="https://img.shields.io/github/followers/garmoths?label=Followers&style=social" alt="GitHub followers"/>
+    </a>
+    <a href="mailto:garmoths11@gmail.com">
+      <img src="https://img.shields.io/badge/Email-garmoths11%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
----
+<br>
 
-### 🧠 Skills
+## 🛠️ Tech Stack & Arsenal
 
-**Backend**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+> **Core Focus:** Building secure, high-performance backend systems and integrating AI-driven automation.
 
-**Frontend**&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Backend & Databases</b></td>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>DevOps & Infrastructure</b></td>
+    <td align="center" width="25%"><b>Tools & AI</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,fastapi,postgresql,redis,rabbitmq" /><br>
+      <sub>Python • FastAPI • PostgreSQL<br>Redis • RabbitMQ • Celery</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,react,tailwind,vite" /><br>
+      <sub>JavaScript • React<br>TailwindCSS • Vite</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions" /><br>
+      <sub>Docker • Linux • Nginx<br>GitHub Actions (CI/CD)</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,bash,idea,vscode" /><br>
+      <sub>Git • Bash<br>OpenAI API</sub>
+    </td>
+  </tr>
+</table>
 
-**DevOps & AI**&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<br>
 
----
+## 🚀 Featured Projects
 
-### 🚀 Featured Project
+Here are some of the projects I am most proud of. They showcase my focus on security, AI, and scalable architecture:
 
-| Project | Description |
-|---------|-------------|
-| **[🛡️ AegisNexus](https://github.com/garmoths/aegisnexushowcase)** | AI-powered cybersecurity platform · 8 modules · 1.8M+ threat database · Turkey fraud atlas |
-| **[🤖 TrAI](https://github.com/garmoths/TrAi)** | AI-powered Discord bot · moderation, chat, automation · GPT integrated |
+| 🏆 Project | 📝 Description | 💡 Key Technologies |
+|:---|:---|:---|
+| **[🛡️ AegisNexus](https://github.com/garmoths/aegisnexushowcase)** | AI-powered cybersecurity platform handling large-scale data. Includes 8 core modules, a 1.8M+ threat database, and a specialized Turkey fraud atlas. | `FastAPI`, `Celery`, `PostgreSQL`, `AI` |
+| **[🤖 TrAI](https://github.com/garmoths/TrAi)** | Advanced AI-powered Discord bot designed for server moderation, interactive chat, and workflow automation seamlessly integrated with GPT models. | `Python`, `OpenAI`, `Discord API` |
 
----
+<br>
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <sub>⚔️ "I know who I am. I am Jack." — and I ship code.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=garmoths&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="Garmoths's GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <hr>
+  <i>"I know who I am. I am Jack." — and I ship code. ⚔️</i>
 </div>
