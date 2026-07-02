@@ -69,7 +69,7 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garmoths&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="Garmoths's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=garmoths&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff&icon_color=3776AB&background=00000000" alt="Garmoths's GitHub Streak" />
 </div>
 
 <br>
