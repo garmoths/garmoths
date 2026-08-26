@@ -63,6 +63,7 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
 |:---|:---|:---|
 | **[🛡️ AegisNexus](https://github.com/garmoths/aegisnexushowcase)** | AI-powered cybersecurity platform handling large-scale data. Includes 8 core modules, a 1.8M+ threat database, and a specialized Turkey fraud atlas. | `FastAPI`, `Celery`, `PostgreSQL`, `AI` |
 | **[🤖 TrAI](https://github.com/garmoths/TrAi)** | Advanced AI-powered Discord bot designed for server moderation, interactive chat, and workflow automation seamlessly integrated with GPT models. | `Python`, `OpenAI`, `Discord API` |
+| **[📚 NotMonk](https://github.com/garmoths/NotMonk)** | Browser extension for tracking learning topics, notes, and progress. Works on Chrome and Brave. Dark and pink themes. | `JavaScript`, `Chrome Extension API` |
 
 <br>
 
