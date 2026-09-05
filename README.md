@@ -62,6 +62,7 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
 | 🏆 Project | 📝 Description | 💡 Key Technologies |
 |:---|:---|:---|
 | **[🛡️ AegisNexus](https://github.com/garmoths/aegisnexushowcase)** | AI-powered cybersecurity platform handling large-scale data. Includes 8 core modules, a 1.8M+ threat database, and a specialized Turkey fraud atlas. | `FastAPI`, `Celery`, `PostgreSQL`, `AI` |
+| **[🚄 YHT Catcher](https://github.com/garmoths/yht-catcher)** | High-speed train seat tracking automation with 2-stage verification, smart cooldown, and instant WhatsApp notifications via Twilio. | `Python`, `Selenium`, `Twilio API` |
 | **[🤖 TrAI](https://github.com/garmoths/TrAi)** | Advanced AI-powered Discord bot designed for server moderation, interactive chat, and workflow automation seamlessly integrated with GPT models. | `Python`, `OpenAI`, `Discord API` |
 | **[📚 NotMonk](https://github.com/garmoths/NotMonk)** | Browser extension for tracking learning topics, notes, and progress. Works on Chrome and Brave. Dark and pink themes. | `JavaScript`, `Chrome Extension API` |
 
@@ -77,5 +78,6 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
 
 <div align="center">
   <hr>
-  <i>"I know who I am. I am Jack." — and I ship code. ⚔️</i>
+  "I know who I am. I am Jack." — and I ship code.
 </div>
+
