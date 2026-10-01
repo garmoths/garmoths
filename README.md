@@ -10,12 +10,7 @@
     <i>Turning complex security problems into clean, scalable, and working software.</i>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/garmoths">
-      <img src="https://img.shields.io/github/followers/garmoths?label=Followers&style=social" alt="GitHub followers"/>
-    </a>
-   
-  </p>
+  
 </div>
 
 <br>
