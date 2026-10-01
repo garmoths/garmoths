@@ -58,6 +58,7 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
 | **[🚄 YHT Catcher](https://github.com/garmoths/yht-catcher)** | High-speed train seat tracking automation with 2-stage verification, smart cooldown, and instant WhatsApp notifications via Twilio. | `Python`, `Selenium`, `Twilio API` |
 | **[🤖 TrAI](https://github.com/garmoths/TrAi)** | Advanced AI-powered Discord bot designed for server moderation, interactive chat, and workflow automation seamlessly integrated with GPT models. | `Python`, `OpenAI`, `Discord API` |
 | **[📚 NotMonk](https://github.com/garmoths/NotMonk)** | Browser extension for tracking learning topics, notes, and progress. Works on Chrome and Brave. Dark and pink themes. | `JavaScript`, `Chrome Extension API` |
+| **[🎧 Audio Recompressor](https://github.com/garmoths/audio-recompressor)** | Offline Android app that repeatedly re-encodes audio through a real generation-by-generation chain. | `Kotlin`, `Jetpack Compose`, `FFmpeg` |
 
 <br>
 
@@ -73,4 +74,3 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
   <hr>
   "I know who I am. I am Jack." — and I ship code.
 </div>
-
