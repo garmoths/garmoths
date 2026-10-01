@@ -59,6 +59,7 @@ Here are some of the projects I am most proud of. They showcase my focus on secu
 | **[🤖 TrAI](https://github.com/garmoths/TrAi)** | Advanced AI-powered Discord bot designed for server moderation, interactive chat, and workflow automation seamlessly integrated with GPT models. | `Python`, `OpenAI`, `Discord API` |
 | **[📚 NotMonk](https://github.com/garmoths/NotMonk)** | Browser extension for tracking learning topics, notes, and progress. Works on Chrome and Brave. Dark and pink themes. | `JavaScript`, `Chrome Extension API` |
 | **[🎧 Audio Recompressor](https://github.com/garmoths/audio-recompressor)** | Offline Android app that repeatedly re-encodes audio through a real generation-by-generation chain. | `Kotlin`, `Jetpack Compose`, `FFmpeg` |
+| **[🎛️ Granulab](https://github.com/garmoths/granulab)** | Android granular synthesizer with real-time sample processing, interactive EQ, an FX rack, and WAV recording. | `Kotlin`, `Jetpack Compose`, `C++`, `Oboe` |
 
 <br>
 
