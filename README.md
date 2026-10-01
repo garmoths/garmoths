@@ -14,9 +14,7 @@
     <a href="https://github.com/garmoths">
       <img src="https://img.shields.io/github/followers/garmoths?label=Followers&style=social" alt="GitHub followers"/>
     </a>
-    <a href="mailto:garmoths11@gmail.com">
-      <img src="https://img.shields.io/badge/Email-garmoths11%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+   
   </p>
 </div>
 
